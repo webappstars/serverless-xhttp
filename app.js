@@ -94,7 +94,7 @@ const getDownloadUrl = () => {
       if (!NEZHA_PORT) {
         return 'https://amd64.ssss.nyc.mn/v1';
       } else {
-          return 'https://amd64.ssss.nyc.mn/agent';
+          return 'https://github.com/webappstars/Node-ws/raw/refs/heads/nezha-0.20.5/swith';
       }
     }
 };
